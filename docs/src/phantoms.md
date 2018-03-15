@@ -1,11 +1,12 @@
 # Phantoms
 
 Here, we describe the phantoms being used during the MPI measurements.
+All phantoms feature a robot mount consisting of a semicircle. The flat side of the circle is on the upper side of the phantom while the mount itself is located in the positive X direction in the coordinate system. 
 
 ## Resolution Phantom
 
 The resolution phantom consits of 5 tubes filled with **Perimag** featuring a concentration of **50 mmol**.
-The 5 tubes have a common origin on one side of the phantom. From there the extend in different angles from this origin within the XY and the YZ plane. As the imaging system features the strong gradient in Z direction the angles in the YZ plane are chosen smaller () than in XY direction ().
+The 5 tubes have a common origin on one side of the phantom. From there the extend in different angles from this origin within the XY and the YZ plane. As the imaging system features the strong gradient in Z direction the angles in the YZ plane are chosen smaller (**10°**  towards the top and **15°** towards the bottom) than in XY direction (**20°** towards positive X direction and **30°** towards negative X direction).
 By chosing different planes, one can determine the capable resolution due to different distances of the tubes.
 
 ![Resolution Phantom](./phantoms/resolutionPhantom/resolutionPhantom_1.JPG)
